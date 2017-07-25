@@ -1,0 +1,11 @@
+Statement:
+  Given an array of length N and Q queries on it. Each query can be of the following type. 
+  1. i j => Find sum of terms at even indexes and sum of terms at odd indexes, then print the absolute difference between sums.
+  
+Input Format:
+  First line contains two space separated integers N and Q.
+  Next line contains N space separated integers denoting the array.
+  Next Q line contains 2 integers each, denoting a query.
+  
+Output Format:
+  Output Q lines containing 1 integer each, denoting answer to corresponding query.
