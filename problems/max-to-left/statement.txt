@@ -1,0 +1,2 @@
+Statement:
+	Given an array of $N$ integers. Then there are $Q$ queries on it. Each query contains an integer denoting an index $i$ of the array. Print out the nearest value to its left that's greater than element at index $i$.
